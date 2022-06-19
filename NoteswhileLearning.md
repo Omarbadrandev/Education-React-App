@@ -44,6 +44,8 @@ usefull tutorial:
 https://www.youtube.com/watch?v=Ef3nvKLS4no
 
 
+should react lazy replaced in the router "more delaration will come"
+
 # WEBPACK
 webpack is a build tool you could say but it really does more than only build the code it manages the code
 
